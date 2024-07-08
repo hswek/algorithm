@@ -58,7 +58,8 @@ int main() {
                 int next_where = next.second.second;
 
                 if (next_cost > m) continue;
-
+                if(m_list[next_where][next_cost] < next_distance)    continue;
+                
                 if (m_list[next_where][ next_cost] >  next_distance) {
                     for(int i=next_cost; i<=m;i++){
                         if (m_list[next_where][i] < next_distance) break;
