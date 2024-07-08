@@ -277,6 +277,7 @@ CTRL+F 로 편하게 문제를 찾을 수 있습니다.
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1014. 컨닝|[링크](./%EB%B0%B1%EC%A4%80/Platinum/1014.%E2%80%85%EC%BB%A8%EB%8B%9D/README.md)|
+|10217. KCM Travel|[링크](./%EB%B0%B1%EC%A4%80/Platinum/10217.%E2%80%85KCM%E2%80%85Travel/README.md)|
 |1086. 박성원|[링크](./%EB%B0%B1%EC%A4%80/Platinum/1086.%E2%80%85%EB%B0%95%EC%84%B1%EC%9B%90/%EB%B0%95%EC%84%B1%EC%9B%90.py)|
 |1102. 발전소|[링크](./%EB%B0%B1%EC%A4%80/Platinum/1102.%E2%80%85%EB%B0%9C%EC%A0%84%EC%86%8C/%EB%B0%9C%EC%A0%84%EC%86%8C.py)|
 |1168. 요세푸스 문제 2|[링크](./%EB%B0%B1%EC%A4%80/Platinum/1168.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%852/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%852.py)|
